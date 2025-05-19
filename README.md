@@ -12,7 +12,7 @@ I’m a 16-year-old student with a strong passion for coding, particularly in Ja
 * ⛵   Encouraging people for open source collaborations.
 * ❤️   An absolute Otaku!
 
-<
+
 <hr>
 <p align="center">
   <i>Take a look at my repositories and let's get in touch!</i>
