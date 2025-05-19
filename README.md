@@ -18,10 +18,10 @@ I’m a 16-year-old student with a strong passion for coding, particularly in Ja
   <i>Take a look at my repositories and let's get in touch!</i>
 
 <p align="center">
-<a href= "https://github.com/Sudo-simon"><img src="https://img.icons8.com/?size=100&id=bVGqATNwfhYq&format=png&color=000000"/></a>
-<a href= "mailto:grandyprogrammes@gmail.com"><img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000"/></a>
-<a href= "https://discord.com/invite/nKxzBm4QwM"><img src="https://img.icons8.com/?size=100&id=2mIgusGquJFz&format=png&color=000000"/></a>
-<a href= "https://www.instagram.com/grandy2828/"><img src="https://img.icons8.com/?size=100&id=32323&format=png&color=000000"/></a>
+<a href= "https://github.com/Sudo-simon"><img src="https://img.icons8.com/?size=30&id=bVGqATNwfhYq&format=png&color=000000"/></a>
+<a href= "mailto:grandyprogrammes@gmail.com"><img src="https://img.icons8.com/?size=30&id=P7UIlhbpWzZm&format=png&color=000000"/></a>
+<a href= "https://discord.com/invite/nKxzBm4QwM"><img src="https://img.icons8.com/?size=30&id=2mIgusGquJFz&format=png&color=000000"/></a>
+<a href= "https://www.instagram.com/grandy2828/"><img src="https://img.icons8.com/?size=30&id=32323&format=png&color=000000"/></a>
 </p>
 
 <p  align="center">
