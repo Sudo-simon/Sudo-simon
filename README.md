@@ -26,7 +26,7 @@ I’m a 16-year-old student with a strong passion for coding, particularly in Ja
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/ravanger101/count.svg"/>
+  <img src="https://profile-counter.glitch.me/Sudo-simon/count.svg"/>
 </p>
 
 </p>
