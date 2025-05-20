@@ -30,5 +30,13 @@ I’m a 16-year-old student with a strong passion for coding, particularly in Ja
 
 </p>
 
+
+<p align="center">
+<img src="https://i.pinimg.com/736x/3e/41/db/3e41dbe8f8a1ea76002644a3ab47e891.jpg">
+</p>
+
+
+
+
 ---
 
